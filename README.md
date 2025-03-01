@@ -23,5 +23,5 @@ With OAuth 2.0, you don't have to worry about managing usernames, passwords, or 
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/yourusername/spring-security-oauth2.git
+   git clone https://github.com/ms593/spring-security-oauth2.git
    cd spring-security-oauth2
